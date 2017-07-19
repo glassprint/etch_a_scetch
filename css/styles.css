@@ -1,0 +1,46 @@
+button {
+  margin: auto;
+  background-color: #47E89b;
+  font-size: 20pt;
+  border: none;
+  color: #BEE8C0;
+  padding: 10px 32px;
+  display: block;
+}
+
+.pixel {
+
+  float: right;
+  clear: none;
+  background-color: #E84A47;
+  border: none;
+  margin: 0;
+  height: 16px;
+  width: 16px;
+
+}
+
+
+.container {
+  margin: auto;
+  width: 768px;
+  height: 768px;
+
+}
+
+table {
+  margin: 0 auto;
+  border-spacing: 0px;
+}
+
+
+
+th, tr {
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse;
+}
+
+th {
+  width: 0;
+}
