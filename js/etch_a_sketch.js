@@ -1,3 +1,4 @@
+console.log("Hi!");
 
 var side = 16;
 var size = 48;
