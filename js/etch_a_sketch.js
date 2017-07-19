@@ -13,7 +13,7 @@ $(document).ready(function() {
 function reset() {
   $("button").click(function() {
     $(".pixel").css("background-color", "#E84A47");
-    side = prompt("How many ballons per side would you like your grid to be? No more than 99 red ballons.");
+    side = prompt("How many balloons per side would you like your grid to be? No more than 99 red balloons.");
     size = 768/side
     $(".container").empty();
     create();
